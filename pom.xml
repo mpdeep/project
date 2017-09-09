@@ -141,7 +141,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-                <mainClass>com.example.bigtable.sample.WordCountDriver</mainClass>
+                <mainClass>com.mapred.driver.PickupLocationDriver</mainClass>
             </manifest>
           </archive>
         </configuration>
